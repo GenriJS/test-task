@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Lato";
+  src: local("Lato Regular"),
+    local("Lato-Regular"),
+    url("/fonts/Lato-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: local("Lato SemiBold"),
+    local("Lato-SemiBold"),
+    url("/fonts/Lato-SemiBold.ttf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: local("Lato Bold"),
+    local("Lato-Bold"),
+    url("/fonts/Lato-Bold.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: local("Lato ExtraBold"),
+    local("Lato-ExtraBold"),
+    url("/fonts/Lato-ExtraBold.ttf");
+  font-weight: 800;
+}
+
